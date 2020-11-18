@@ -1,4 +1,4 @@
-//Trapezoid calculator using functions\
+//Trapezoid calculator using functions
 
 //checking for the click 
 document.getElementById("button").addEventListener("click", calcArea)
